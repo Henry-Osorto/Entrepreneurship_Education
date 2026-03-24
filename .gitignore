@@ -1,0 +1,29 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+
+# Temporary/backup files
+*~
+*.bak
+*.tmp
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Quarto / knitr caches
+_cache/
+.quarto/
+
+# Large local artifacts you may not want to track
+results/logs/
+
+# OS / editor files
+.vscode/
+.idea/
