@@ -17,7 +17,7 @@ library(fs)
 
 # Project root folder
 # Adjust this path if you change computers
-PROJECT_ROOT <- "~/Impacto de la Educación Empresarial en la Intención Emprendedora/"
+PROJECT_ROOT <- "~/Entrepreneurship_Education/"
 
 # Main folders
 DIRS <- list(data_raw = file.path(PROJECT_ROOT, "data_raw"),
