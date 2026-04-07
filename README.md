@@ -36,7 +36,7 @@ Entrepreneurship_Education/
 │   ├── figures/
 │   └── models/
 ├── manuscript/
-│   ├── Entrepreneurship_Education.tex
+│   ├── Entrepreneurship_Education.pdf
 │   └── Bibliografia.bib
 ├── supplementary/
 │   ├── questionnaire/
