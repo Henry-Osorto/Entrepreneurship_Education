@@ -8,7 +8,7 @@ This repository contains the data, scripts, supplementary materials, and manuscr
 
 This project examines whether entrepreneurship education influences entrepreneurial intention among university students in Honduras indirectly through entrepreneurial self-efficacy and entrepreneurial motivation.
 
-The repository has been organized to support transparency and reproducibility. It includes the anonymized dataset used for the analyses, the codebook, the questionnaire in English and Spanish, the construct framework with dimensions, measurement items, and sources, the R scripts used for statistical analyses, and the LaTeX files used to generate the manuscript.
+The repository has been organized to support transparency and reproducibility. It includes the anonymized dataset used for the analyses, the codebook, the questionnaire in English and Spanish, the construct framework with dimensions, measurement items, and sources, the R scripts used for statistical analyses, and the manuscript.
 
 ## Repository Structure
 
